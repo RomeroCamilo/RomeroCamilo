@@ -1,7 +1,7 @@
 - 👋 Hello there, Im Camilo Romero 
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning C++, Javascript
-- 💞️ I’m looking to collaborate on projects.
+- 💞️ I’m looking to collaborate on projects!
 - 📫 How to reach me - camilo.romero@stu.bmcc.cuny.edu
 
 <!---
